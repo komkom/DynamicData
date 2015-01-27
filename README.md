@@ -95,14 +95,3 @@ The code is standard C++11 compatible, except for mmap which is used to map the 
 
 For basic usage of the library have a look at Demo.h. The application user interface is defined in DDIndex.
 
-### Implementation Overview
-
-work in progress ...
-
-If you have questions about the implementation please feel free to contact us: hello@cleverandson.com 
-
-
-
-
-###### This project is maintained by [Clever & Son](https://github.com/cleverandson "Clever & Son")
-
