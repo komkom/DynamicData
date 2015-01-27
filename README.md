@@ -1,7 +1,3 @@
-yout: post
-title: Manual
----
-
 # DynamicData
 
 ### Introduction
